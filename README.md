@@ -2,10 +2,10 @@
 Help keep SugarChain network stable through solo mining. In case anybody needs this.
 
 ### Set up your wallet config.json through options tab when finished adding below info close and re-open wallet
-server=1
-rpcallowip=127.0.0.1
-rpcuser=user
-rpcpassword=pass
+* server=1
+* rpcallowip=127.0.0.1
+* rpcuser=user
+* rpcpassword=pass
 
 
 ### Run on Linux
